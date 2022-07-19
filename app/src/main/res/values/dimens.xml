@@ -5,4 +5,7 @@
     <dimen name="default_button_size">45dp</dimen>
     <dimen name="small_default_margin">8dp</dimen>
     <dimen name="default_radius">8dp</dimen>
+    <dimen name="space_between">8dp</dimen>
+    <dimen name="default_margin_top">16dp</dimen>
+    <dimen name="default_padding">8dp</dimen>
 </resources>

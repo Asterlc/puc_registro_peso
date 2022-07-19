@@ -3,4 +3,10 @@
     <string name="todo">TODO</string>
     <string name="lista_vazia">Lista vazia!</string>
     <string name="add_register">Adicionar novo registro</string>
+    <string name="date_info">Informe a data</string>
+    <string name="peso">Peso</string>
+    <string name="label_peso">Peso</string>
+    <string name="date_info2">Informe data</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_cancelar">cancelar</string>
 </resources>
